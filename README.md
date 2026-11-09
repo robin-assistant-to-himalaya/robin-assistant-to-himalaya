@@ -42,14 +42,10 @@ code. ship. repeat.
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=robin-assistant-to-himalaya&show_icons=true&theme=synthwave&hide_border=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robin-assistant-to-himalaya&layout=compact&theme=synthwave&hide_border=true)
+![Stats](https://readmefx.potenfyr.in/stats?username=robin-assistant-to-himalaya&showIcons=true&rank=true&animate=true&theme=synthwave)
+![Profile](https://readmefx.potenfyr.in/profile?username=robin-assistant-to-himalaya&showAvatar=true&animate=true&theme=synthwave)
 
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=robin-assistant-to-himalaya&theme=synthwave&hide_border=true)
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=robin-assistant-to-himalaya&theme=radical&no-frame=true&no-bg=true&margin-w=4)
-
-![Snake](https://readmefx.potenfyr.in/snake?username=robin-assistant-to-himalaya&theme=synthwave&duration=100)
 
 </div>
 
